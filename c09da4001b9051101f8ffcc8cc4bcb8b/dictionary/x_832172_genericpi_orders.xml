@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Orders" max_length="40" name="x_832172_genericpi_orders" sizeclass="4" type="collection">
+        <element default="javascript: global.getNextObjNumberPadded() ;" label="OrderId" max_length="40" name="orderid" type="string"/>
+        <element label="Rate" max_length="32" name="rate" reference="x_832172_genericpi_pizzarates" type="reference"/>
+        <index name="index">
+            <element name="rate"/>
+        </index>
+    </element>
+</database>

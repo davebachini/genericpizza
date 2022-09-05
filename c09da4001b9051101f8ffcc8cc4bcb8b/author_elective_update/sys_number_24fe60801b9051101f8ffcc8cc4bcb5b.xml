@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_832172_genericpi_items">x_832172_genericpi_items</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>IT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 05:35:02</sys_created_on>
+        <sys_id>24fe60801b9051101f8ffcc8cc4bcb5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT</sys_name>
+        <sys_package display_value="GenericPizza" source="x_832172_genericpi">c09da4001b9051101f8ffcc8cc4bcb8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GenericPizza">c09da4001b9051101f8ffcc8cc4bcb8b</sys_scope>
+        <sys_update_name>sys_number_24fe60801b9051101f8ffcc8cc4bcb5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 05:35:02</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GenericPizza">c09da4001b9051101f8ffcc8cc4bcb8b</application>
+        <file_path/>
+        <instance_id>3ed2a421dbf0f3c04d2bac44d4961916</instance_id>
+        <instance_name>dev80684</instance_name>
+        <name>sys_number_24fe60801b9051101f8ffcc8cc4bcb5b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_832172_genericpi_items">x_832172_genericpi_items</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>IT</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-20 05:35:02</sys_created_on><sys_id>24fe60801b9051101f8ffcc8cc4bcb5b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT</sys_name><sys_package display_value="GenericPizza" source="x_832172_genericpi">c09da4001b9051101f8ffcc8cc4bcb8b</sys_package><sys_policy/><sys_scope display_value="GenericPizza">c09da4001b9051101f8ffcc8cc4bcb8b</sys_scope><sys_update_name>sys_number_24fe60801b9051101f8ffcc8cc4bcb5b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-20 05:35:02</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1823401365</payload_hash>
+        <record_name>IT</record_name>
+        <reverted_from/>
+        <source>089da4001b9051101f8ffcc8cc4bcb8d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 05:35:02</sys_created_on>
+        <sys_id>30fe64801b9051101f8ffcc8cc4bcb77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1817f9b71320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 05:35:02</sys_updated_on>
+        <type>Number</type>
+        <update_guid>78fe6480879051106226bfa716ad1376</update_guid>
+        <update_guid_history>78fe6480879051106226bfa716ad1376:1823401365</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-21 07:31:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>1c0f175e836a415f889deb17f7112e31</sys_id>
+        <sys_metadata>24fe60801b9051101f8ffcc8cc4bcb5b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT</sys_name>
+        <sys_package display_value="GenericPizza" source="x_832172_genericpi">c09da4001b9051101f8ffcc8cc4bcb8b</sys_package>
+        <sys_parent display_value="">f1adac001b9051101f8ffcc8cc4bcb8f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GenericPizza">c09da4001b9051101f8ffcc8cc4bcb8b</sys_scope>
+        <sys_scope_delete display_value="">409f7ba0a96340399a5add491f6abbb9</sys_scope_delete>
+        <sys_update_name>sys_number_24fe60801b9051101f8ffcc8cc4bcb5b</sys_update_name>
+        <sys_update_version display_value="sys_number_24fe60801b9051101f8ffcc8cc4bcb5b">30fe64801b9051101f8ffcc8cc4bcb77</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-21 07:31:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
